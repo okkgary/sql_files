@@ -8,7 +8,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
  - **Visual Studios Code :** My go-to for database management and executing SQL queries.
  - **Git & Github :** Essential for version control and sharing my SQL scripts and analysis, ensuring colloboration and project tracking.
 # THE ANALYSIS
-![Top paying jobs and relative skillset](assets\1_img.png)
+![Top paying jobs and relative skillset](assets/1_img.png)
 
 
 # WHAT I LEARNED
