@@ -8,5 +8,11 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
  - **Visual Studios Code :** My go-to for database management and executing SQL queries.
  - **Git & Github :** Essential for version control and sharing my SQL scripts and analysis, ensuring colloboration and project tracking.
 # THE ANALYSIS
+![Top paying jobs and relative skillset](assets\1_img.png)
+
+
 # WHAT I LEARNED
-# CONCLUSION
+Throughout this adventure, I've turbocharged my SQL toolkit with some seroius firepower :
+- **Complex Query Crafting :** Mastered the art of advanced SQL, merging tables and wielding WITH clauses for temp table maneuvers.
+- **Data Aggregation :** Got comfortable with GROUP BY and turned aggregate function like COUNT() and AVERAGE() into my data-summarizing tools.
+- **Analytical Wizardary :** Leveled up my real-world puzzle-solving skills, turning question into actionable, insightful SQL queries.
