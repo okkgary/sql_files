@@ -32,4 +32,4 @@ HAVING
 ORDER BY 
     average_salary desc, 
     demand_count desc
-LIMIT 10
+LIMIT 10 ;
